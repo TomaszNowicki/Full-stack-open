@@ -1,3 +1,3 @@
 # Full-stack-open
-exercises
+Exercises performed By Tomasz Nowicki
 
